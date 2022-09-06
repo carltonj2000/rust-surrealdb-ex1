@@ -1,0 +1,8 @@
+#V2
+info for db
+help
+.help
+exit
+.exit
+quit
+.exit
